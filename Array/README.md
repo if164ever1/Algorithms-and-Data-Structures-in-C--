@@ -17,4 +17,4 @@ When you declare an array in your program, the operating system allocates a bloc
 For example, consider an array of integers in C++:
 ```cpp
     int numbers[5];
-    ```
+```
