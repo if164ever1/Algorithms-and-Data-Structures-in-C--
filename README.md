@@ -5,6 +5,9 @@ Welcome to my Algorithms and Data Structures repository! Here, you'll find compr
 ## Table of Contents
 
 - [Understanding Big O Notation, Time Complexity, and Space Complexity](Understanding%20Big%20O%20Notation/README.md): Learn about algorithm efficiency and complexities with detailed explanations and C++ code examples.
+- [Arrays in C++](Array/README.md): Explore basic concepts of arrays, array reversal, and element insertion in C++ with examples.
+  - Reverse the Array In-Place
+  - Insert an Element in Between of Array
 
 <!-- Add more sections and links to other topics/directories as you add them to your repository -->
 
