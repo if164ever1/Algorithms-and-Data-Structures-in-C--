@@ -2,6 +2,12 @@
 
 In computer science, **Big O notation** is used to describe the efficiency of algorithms. It helps us understand how the time or space complexity of an algorithm scales with the size of the input.
 
+What is Big O Notation?
+Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument approaches infinity.
+In computer science, it is used to analyze algorithms and their efficiency. It helps you understand how the time or space complexity of an algorithm grows relative to the size of the input.
+
+For example, consider an algorithm that takes a list of numbers and finds the maximum number in the list. If there are 'n' numbers in the list, and the algorithm examines each number once, we say the time complexity is O(n) because the time it takes to run the algorithm grows linearly with the size of the input.
+
 ### Time Complexity
 
 - **O(1) - Constant Time:** Algorithms with constant time complexity do not depend on the size of the input. Example: Accessing an element in an array using its index.
