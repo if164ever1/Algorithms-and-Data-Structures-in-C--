@@ -5,7 +5,7 @@ Arrays are fundamental data structures that store elements of the same data type
 ## Basic Concepts of Arrays in C++
 
 In C++, an array is declared using the following syntax:
-```cpp
+
 dataType arrayName[arraySize];
 
 ## How Arrays are Stored in Computer Memory
