@@ -4,7 +4,7 @@ Welcome to my Algorithms and Data Structures repository! Here, you'll find compr
 
 ## Table of Contents
 
-- [Understanding Big O Notation, Time Complexity, and Space Complexity](big_o_notation/README.md): Learn about algorithm efficiency and complexities with detailed explanations and C++ code examples.
+- [Understanding Big O Notation, Time Complexity, and Space Complexity](Understanding%20Big%20O%20Notation/README.md): Learn about algorithm efficiency and complexities with detailed explanations and C++ code examples.
 
 <!-- Add more sections and links to other topics/directories as you add them to your repository -->
 
